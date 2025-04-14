@@ -48,3 +48,5 @@ To set up and run the API locally, follow these steps:
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
+## Usage
+Run this command to analyze sentiment:
