@@ -31,7 +31,7 @@ To set up and run the API locally, follow these steps:
 
    you will receive a response with a variety of sentiments to draw from with a confidence score between 0-100 which shows the confidence level of how AI interpreted the text.
 6. **Response**:
-   ```bash
+   `bash:`
    {
   "label": "positive",
   "confidence": 93,
@@ -39,9 +39,9 @@ To set up and run the API locally, follow these steps:
   "emoji_hand": "👍",
   "star_rating": "★★★★★",
   "numeric_rating": "5/5"
-}```
+}
 
-7. **After your custom processing**:
+8. **After your custom processing**:
    ```Processed response samples
    I love Nosana! 5/5
    ★★★★★ "I love Nosana!" --actual client
