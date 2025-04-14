@@ -39,7 +39,8 @@ To set up and run the API locally, follow these steps:
   "emoji_hand": "👍",
   "star_rating": "★★★★★",
   "numeric_rating": "5/5"
-}
+}```
+
 7. **After your custom processing**:
    ```Processed response samples
    I love Nosana! 5/5
