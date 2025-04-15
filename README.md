@@ -24,7 +24,7 @@ To set up and run the API locally, follow these steps:
    Choose Advanced Builder, paste the job definition, select a GPU with 8GB or more, and click Create Deployment.
 4. **Deplyment Page**:
    ```Logs Tab
-   Make note of the address that is eventually listed:
+   Make note of the address that is eventually listed in the Log Tab:
    e.g. https://538qBxRN1EMmB3YAt35tvmPe8JfEZx4n1unrfRtMQCjq.node.k8s.prd.nos.ci
 5. **Send a test message**:
    ```bash
