@@ -32,7 +32,7 @@ To set up and run the API locally, follow these steps:
    you will receive a response with a variety of sentiments to draw from with a confidence score between 0-100 which shows the confidence level of how AI interpreted the text.
 6. **Response**:
 - bash:
- "label": "positive",
+  "label": "positive",
   "confidence": 93,
   "emoji_face": "😊",
   "emoji_hand": "👍",
