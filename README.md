@@ -19,7 +19,8 @@ To set up and run the API locally, follow these steps:
    ```bash
    docker build -t sentiment-analysis-multilingual:0.0.3 .
 3. **Paste the job-def.json contents into Nosana**
-   ```https://dashboard.nosana.com/deploy/
+   ```
+   https://dashboard.nosana.com/deploy/
    Choose Advanced Builder, paste the job definition, select a GPU with 8GB or more, and click Create Deployment.
 4. **Deplyment Page**:
    ```Logs Tab
