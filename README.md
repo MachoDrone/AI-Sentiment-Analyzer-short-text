@@ -13,7 +13,7 @@ To set up and run the API locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-api.git
+   git clone https://github.com/machodrone/AI-Sentiment-Analyzer-short-text.git
    cd sentiment-analysis-api
 2. **Build the Docker Image**:
    ```bash
