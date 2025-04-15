@@ -28,8 +28,7 @@ To set up and run the API locally, follow these steps:
    e.g. https://538qBxRN1EMmB3YAt35tvmPe8JfEZx4n1unrfRtMQCjq.node.k8s.prd.nos.ci
 5. **Send a test message**:
    ```bash
-   curl -X POST -H "Content-Type: application/json" -d '{"text": "I love Nosana!"}' http://localhost:8000/analyze
-
+   curl -X POST -H "Content-Type: application/json" -d '{"text": "I love Nosana!"}' https://538qBxRN1EMmB3YAt35tvmPe8JfEZx4n1unrfRtMQCjq.node.k8s.prd.nos.ci/analyze
    you will receive a response with a variety of sentiments to draw from with a confidence score between 0-100 which shows the confidence level of how AI interpreted the text.
 6. **Response**:
 - bash:
